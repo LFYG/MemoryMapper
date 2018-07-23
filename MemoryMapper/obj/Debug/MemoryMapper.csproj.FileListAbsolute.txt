@@ -1,6 +1,0 @@
-C:\Users\Jason\Desktop\MemoryMapper\MemoryMapper\bin\Debug\MemoryMapper.dll
-C:\Users\Jason\Desktop\MemoryMapper\MemoryMapper\bin\Debug\MemoryMapper.pdb
-C:\Users\Jason\Desktop\MemoryMapper\MemoryMapper\obj\Debug\MemoryMapper.csprojResolveAssemblyReference.cache
-C:\Users\Jason\Desktop\MemoryMapper\MemoryMapper\obj\Debug\MemoryMapper.csproj.CoreCompileInputs.cache
-C:\Users\Jason\Desktop\MemoryMapper\MemoryMapper\obj\Debug\MemoryMapper.dll
-C:\Users\Jason\Desktop\MemoryMapper\MemoryMapper\obj\Debug\MemoryMapper.pdb
