@@ -66,7 +66,7 @@ namespace MemoryMapper
         /// </summary>
         /// <param name="bytes">The bytes of the assembly to inject.</param>
         /// <param name="surrogateProcess">The path of the process to inject the assembly.</param>
-        public static bool LoadAssembly(byte[] bytes, string surrogateProcess)
+        public bool LoadAssembly(byte[] bytes, string surrogateProcess)
         {
             ManagedLoader loader = new ManagedLoader();
             OP inject = new OP(loader.Inject);
