@@ -36,7 +36,7 @@ using System;
 using System.Runtime.InteropServices;
 
 #endregion
-namespace Mapper
+namespace MemoryMapper
 {
     #region Structs
 
@@ -118,11 +118,11 @@ namespace Mapper
     {
         [MarshalAs(UnmanagedType.ByValArray, SizeConst = 8)]
         public byte[] Name;
-        //union 
-        //{    
-        //    DWORD PhysicalAddress;    
-        //    DWORD VirtualSize;  
-        //} Misc;  
+        //union
+        //{
+        //    DWORD PhysicalAddress;
+        //    DWORD VirtualSize;
+        //} Misc;
         public uint PhysicalAddress;
         //public uint VirtualSize;
         public uint VirtualAddress;
