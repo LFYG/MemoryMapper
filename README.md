@@ -10,7 +10,7 @@
     <!-- Docs -->
     <img src="https://img.shields.io/badge/docs-not%20found-lightgrey.svg">
     <!-- License -->
-    <img src="https://img.shields.io/packagist/l/doctrine/orm.svg">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </p>
 
 Memory Mapper is a lightweight library which allows the ability to map both native and managed assemblies into memory by either using process injection of a process specified by the user or self-injection; the technique of injecting an assembly into the currently running process attempting to do the injection. The library comes with tools not only to map assemblies, but with the capabilities to encrypt, decrypt, and generate various amounts of cryptographically strong data.
@@ -145,8 +145,8 @@ namespace Example
 }
 ```
 # Credits
-**Icon:** `DesignBolts`
-###### http://www.designbolts.com/
+**Icon:** `DesignBolts` <br>
+http://www.designbolts.com/
 
 # License
 
